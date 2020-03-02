@@ -1,0 +1,12 @@
+.cell {
+  width: 4rem;
+  height: 4rem;
+  padding: 0;
+  margin: 0.5rem;
+  font-size: 3rem;
+  background-color: gray;
+}
+
+.cell:hover {
+  background-color: skyblue;
+}

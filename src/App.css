@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+}
+
+.reset-button {
+  margin-top: 2rem;
+  width: 10rem;
+}
+
+.reset-button:hover {
+  background-color: deepskyblue;
+}
